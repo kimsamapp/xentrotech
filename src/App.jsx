@@ -5,7 +5,7 @@ import { useState, useEffect, useRef } from "react";
    EDIT ME: contact details, work photos and text content below.
    WORKS: fill each list with {src, alt, cap} to replace the sample images.
    ============================================================ */
-const C={email:"hello@xentrotech.com",tel:"+630000000000",telShow:"+63 000 000 0000",addr:"Cebu City, Cebu, Philippines",hours:"Mon to Sat, 9:00 AM to 6:00 PM"};
+const C={email:"kim.joshua.espanol.work@gmail.com",tel:"+630000000000",telShow:"+63 000 000 0000",addr:"Cebu City, Cebu, Philippines",hours:"Mon to Sat, 9:00 AM to 6:00 PM"};
 
 const WORKS={about:[],solar:[],cctv:[],repair:[],cabling:[]};
 
